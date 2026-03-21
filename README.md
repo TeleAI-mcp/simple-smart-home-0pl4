@@ -1,2 +1,3 @@
-# simple-smart-home-0pl4
+# Simple Smart Home 0Pl4
+
 A smart home automation platform for modern development workflows.
